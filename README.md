@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** - https://agreeable-sea-0cf512d10.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://drive.google.com/file/d/1TkiM_Zor-6Cny98ShxCuj5eqX1ERsNek/view?usp=sharing
 
 ## Azure technologies used for Project
 
