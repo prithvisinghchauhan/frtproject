@@ -25,6 +25,7 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
+![7](https://user-images.githubusercontent.com/117971266/209640123-caff900e-5b5b-4fc6-a536-c0bf7b37327f.PNG)
 
 
 
@@ -41,6 +42,7 @@ This is a web based application developed for health related based website in in
 ## health bot
 ![4](https://user-images.githubusercontent.com/117971266/209575982-1e7ffc1a-6173-4477-97d0-1800ef580a7d.PNG)
 
+![8](https://user-images.githubusercontent.com/117971266/209640100-cad7e895-072e-45a3-bbda-4e058a29b5e0.PNG)
 
 
 
